@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: black !important;
+    color: #fff !important;
+}
+
+.services{
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+}
+
+.service-box{
+    box-shadow: 0 0 4px 0 #ff2600;
+    padding: 15px;
+    position: relative;
+}
+
+.fa{
+    font-size: 40px !important;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: justify;
+}
+span{
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    -webkit-background-clip: text;
+    color: transparent;
+}
